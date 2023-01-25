@@ -8,7 +8,7 @@ const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-feature">
         <Feature
           title="What is GPT-3"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+          text="GPT-3 is the third of its name. It is a Generative Pre-trained Transformer neural network that uses internat data to generate text. It is developed by OpenAI."
         />
       </div>
       <div className="gpt3__whatgpt3-heading">
@@ -20,15 +20,15 @@ const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-container">
         <Feature
           title="Chatbots"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+          text="Don't have any friends? GPT-3 is your friend. Chat away all night, talking about any topic of your choosing."
         />
         <Feature
           title="Knowledgebase"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="Store, Access, and Discover knowledge like never before by leveraging the power of AI."
         />
         <Feature
           title="Education"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="Forget the expensive textbooks and tiny desks; learn at home with the power of the Internet, distilled."
         />
       </div>
     </div>

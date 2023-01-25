@@ -6,7 +6,7 @@ const Footer = () => (
   <div className="gpt3__footer section__padding">
     <div className="gpt3__footer-heading">
       <h1 className="gradient__text">
-        Do you want to step in to the future before others
+        Don't wait, step into the Future with GPT-3
       </h1>
     </div>
 
